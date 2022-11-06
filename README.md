@@ -14,7 +14,7 @@ it started out as an idea for a game, but turned into a single project serving a
 - minigames
 - start and pause menu
 - basic SFX and VFX
-- ...
-- ...
-- ...
+- 
+- 
+- 
 - a lot of tears and frustration
